@@ -7,14 +7,6 @@ This project recreates the supplied portfolio HTML as a reusable React/Vite site
 - Node.js 18+ (Node 20+ recommended)
 - npm
 
-## Run locally
-
-```bash
-npm install
-npm run dev
-```
-
-Then open the local Vite URL shown in the terminal.
 
 ## Production build
 
